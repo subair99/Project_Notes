@@ -6,3 +6,4 @@
 4. Project_Notes_004 - Bankruptcy in Poland
 5. Project_Notes_005 - United States Small Business Owners
 6. Project_Notes_006 - New York City Airbnb
+7. Project_Notes_007 - New York City Airbnb Reload
